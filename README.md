@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul M
 - 🌱 I’m currently learning Data science
-- Looking for Data science and Data Analyst roles
+- Looking for Data scientist and Data Analyst roles
 - 📫 How to reach me : 
  rahulmohan9548@gmail.com
 
