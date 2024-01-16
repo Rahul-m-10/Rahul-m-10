@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul-m-10.
+- 👋 Hi, I’m Rahul M
 - 🌱 I’m currently learning Data science
 - 📫 How to reach me
 - rahulmohan9548@gmail.com
